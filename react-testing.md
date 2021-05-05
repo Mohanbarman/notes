@@ -5,6 +5,8 @@
 ```shell
 $ yarn add -D @testing-library/react react-test-renderer jest ts-jest
 ```
+### Setup
+Put tests in `src/tests/` directory with `*.test.(ts|tsx)` name convention
 
 ### Steps
 
