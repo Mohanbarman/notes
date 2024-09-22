@@ -1,7 +1,5 @@
 # Web Performance
 
-## Web vitals
-
 ### FCP (First contentful paint)
 Displays how long it takes for a website to render the first visual on screen
 
@@ -23,4 +21,5 @@ The interactivitiy delay of a website, from the moment you click a button how lo
 ### CLS (Cumulative layout shift)
 It measures Visual stabality. The elements on a website should not be jumping around in unexpected way. Using images without dimensions can create a bad CLS score
 
-`Note: Unlighthouse can be used to run lighthouse on all the pages of a website in parallel`
+#### Note: Unlighthouse can be used to run lighthouse on all the pages of a website in parallel
+#### Web vitals plugin can be used to measure the various metrics and display the elements that are causing the problem
